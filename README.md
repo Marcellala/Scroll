@@ -1,1 +1,1 @@
-Application to display list of organization's repositories using girhub API
+Application to display list of organization's repositories using github API
